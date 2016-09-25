@@ -1,0 +1,7 @@
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\bin\Debug\FolderBrowser.dll
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\bin\Debug\FolderBrowser.pdb
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.csproj.GenerateResource.Cache
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.dll
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.pdb
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.FolderBrowser.resources
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.csprojResolveAssemblyReference.cache

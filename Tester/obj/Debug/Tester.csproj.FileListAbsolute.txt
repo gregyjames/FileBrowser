@@ -1,0 +1,11 @@
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\bin\Debug\Tester.exe.config
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\bin\Debug\Tester.exe
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\bin\Debug\Tester.pdb
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\obj\Debug\Tester.exe
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\obj\Debug\Tester.pdb
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\obj\Debug\Tester.Form1.resources
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\bin\Debug\FolderBrowser.dll
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\Tester\bin\Debug\FolderBrowser.pdb
