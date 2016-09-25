@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Drawing;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
@@ -29,18 +22,41 @@ namespace FolderBrowser
         public static TreeNode CreateDirectoryNode(DirectoryInfo directoryInfo)
         {
             FolderFileNode directoryNode = new FolderFileNode(directoryInfo.Name, directoryInfo.FullName, false);
-            foreach (var directory in directoryInfo.GetDirectories())
-                try
+            //foreach (var directory in directoryInfo.GetDirectories())
+            //    try
+            //    {
+            //        directoryNode.Nodes.Add(CreateDirectoryNode(directory));
+            //    }
+            //    catch { }
+
+            Parallel.ForEach<DirectoryInfo>(directoryInfo.GetDirectories(), (directory) => {
+                lock (directoryNode)
                 {
-                    directoryNode.Nodes.Add(CreateDirectoryNode(directory));
+                    try
+                    {
+                        directoryNode.Nodes.Add(CreateDirectoryNode(directory));
+                    }
+                    catch { }
                 }
-                catch { }
-            foreach (var file in directoryInfo.GetFiles())
-                try
+            });
+
+            //foreach (var file in directoryInfo.GetFiles())
+            //    try
+            //    {
+            //        directoryNode.Nodes.Add(new FolderFileNode(file.Name, file.FullName, true));
+            //    }
+            //    catch { }
+
+            Parallel.ForEach<FileInfo>(directoryInfo.GetFiles(), (file) => {
+                lock (directoryNode)
                 {
-                    directoryNode.Nodes.Add(new FolderFileNode(file.Name, file.FullName, true));
+                    try
+                    {
+                        directoryNode.Nodes.Add(new FolderFileNode(file.Name, file.FullName, true));
+                    }
+                    catch { }
                 }
-                catch { }
+            });
             return directoryNode;
         }
     }

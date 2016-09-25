@@ -4,4 +4,3 @@ C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\F
 C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.dll
 C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.pdb
 C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.FolderBrowser.resources
-C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Debug\FolderBrowser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\bin\Release\FolderBrowser.dll
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\bin\Release\FolderBrowser.pdb
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Release\FolderBrowser.FolderBrowser.resources
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Release\FolderBrowser.csproj.GenerateResource.Cache
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Release\FolderBrowser.dll
+C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\FolderBrowser\obj\Release\FolderBrowser.pdb

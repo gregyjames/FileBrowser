@@ -1,6 +1,0 @@
-C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\bin\Debug\FileBrowser.dll
-C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\bin\Debug\FileBrowser.pdb
-C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.FileBrowser.resources
-C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.Cache
-C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.dll
-C:\Users\Greg\Desktop\Files\Git workspace\File Browser\FileBrowser\FileBrowser\obj\Debug\FileBrowser.pdb
