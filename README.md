@@ -3,6 +3,8 @@
 
 A file browser control for C#
 
+#Appearance
+![alt tag](http://i.imgur.com/VJJudhB.png)
 
 #Usage
 ```csharp
